@@ -479,6 +479,7 @@ header {
 
 .footer-content {
   display: flex;
+  align-items: baseline;
 }
 
 .footer .logo.ftr {
@@ -522,7 +523,7 @@ header {
 }
 
 .footer-social {
-  padding-top: 12px;
+  /* padding-top: 15px; */
 }
 
 .footer-social-title {
